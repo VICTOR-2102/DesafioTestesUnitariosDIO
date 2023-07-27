@@ -1,0 +1,15 @@
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\bin\Debug\net7.0\TestesUnitarios.Console.exe
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\bin\Debug\net7.0\TestesUnitarios.Console.deps.json
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\bin\Debug\net7.0\TestesUnitarios.Console.runtimeconfig.json
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\bin\Debug\net7.0\TestesUnitarios.Console.dll
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\bin\Debug\net7.0\TestesUnitarios.Console.pdb
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.csproj.AssemblyReference.cache
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.AssemblyInfoInputs.cache
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.AssemblyInfo.cs
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.csproj.CoreCompileInputs.cache
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.dll
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\refint\TestesUnitarios.Console.dll
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.pdb
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\TestesUnitarios.Console.genruntimeconfig.cache
+c:\Users\Localize\source\repos\ProjectTestesUnitariosDIO\TestesUnitarios.Console\obj\Debug\net7.0\ref\TestesUnitarios.Console.dll
